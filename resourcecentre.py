@@ -1,4 +1,4 @@
-from inventory.inventory import Inventorysssssssss
+from inventory.inventory import Inventory
 
 class ResourceCenter:
     def __init__(self):
