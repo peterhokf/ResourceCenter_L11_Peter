@@ -1,4 +1,4 @@
-from inventory.camera import Camera
+from inventory.camera import Cameras
 from inventory.laptop import Laptop
 
 class Inventory():
