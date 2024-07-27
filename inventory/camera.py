@@ -1,4 +1,4 @@
-from inventory.item import items
+from inventory.item import item
 
 class Camera(item):
     # Refactor (E): Extract duplicate attributes and methods.
