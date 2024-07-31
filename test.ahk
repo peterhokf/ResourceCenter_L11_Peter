@@ -1,4 +1,4 @@
-imageDir := A_ScriptDir
+imageDir := A_ScriptDirs
 image     = %imageDir%\earth-img.jpg
 If !FileExist(image)
  URLDownloadToFile, % "http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/"
