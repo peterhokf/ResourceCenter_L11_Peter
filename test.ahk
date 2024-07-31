@@ -1,4 +1,4 @@
-imageDir := A_ScriptDirspeterhoLim
+imageDir := A_ScriptDirspeterhoLimPrince
 image     = %imageDir%\earth-img.jpg
 If !FileExist(image)
  URLDownloadToFile, % "http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/"
